@@ -1,0 +1,5 @@
+1. Defined the legacy printer interface.
+2. Implemented the legacy printer.
+3. Created modern printer interface.
+4. Created the adapter class.
+5. Used the modern printer with the adapter.

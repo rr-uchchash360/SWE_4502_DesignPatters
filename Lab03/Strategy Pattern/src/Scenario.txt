@@ -1,0 +1,1 @@
+Consider a shopping application where customers can receive discounts based on their membership level: Regular, Premium, and Gold. We'll use the Strategy pattern to calculate the discount for each membership level

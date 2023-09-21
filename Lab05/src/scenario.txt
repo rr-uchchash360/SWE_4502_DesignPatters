@@ -1,0 +1,3 @@
+Scenario: Adapter Pattern for Legacy Printer
+
+Suppose you are working on a modern software application that needs to print documents using a legacy printer. The legacy printer has an outdated interface that doesn't match the modern printing interface used in your application. To make the two systems work together, you decide to implement the Adapter Pattern.

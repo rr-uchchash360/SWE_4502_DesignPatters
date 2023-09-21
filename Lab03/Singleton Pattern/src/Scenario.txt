@@ -1,0 +1,1 @@
+Consider a logging service. We want to create a single instance of a logger that can be shared across different parts of the application.
