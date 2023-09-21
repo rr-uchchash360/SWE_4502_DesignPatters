@@ -1,0 +1,9 @@
+Scenario:
+In our e-commerce system, customers can order various types of products, such as books, electronics, and clothing. Each product can have a different discount strategy based on its category. Customers can also choose to add gift wrapping to their orders, which incurs an additional cost.
+
+
+Strategy Pattern: I'm defining a DiscountStrategy interface with different concrete implementations for discount calculations based on the product category.
+
+Factory Pattern: I'm creating a ProductFactory to generate product objects based on customer requests.
+
+Decorator Pattern: I'm using a GiftWrappingDecorator to add optional gift wrapping to ordered products.
